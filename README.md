@@ -1,4 +1,4 @@
-# TodoMVC 3: Mark Items Complete
+# TodoMVC 3 - Mark Items Complete
 
 ## Objectives
 
